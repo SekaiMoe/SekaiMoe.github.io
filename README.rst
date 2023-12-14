@@ -1,3 +1,3 @@
-Tese Blog Page
+Test Blog Page
 ========
 Nothing here.
